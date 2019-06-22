@@ -35,7 +35,6 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
   "main": "n/a",
   "scripts": {
     "clean": "rimraf .cache public",
